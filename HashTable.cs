@@ -7,7 +7,6 @@ class Node {
     public Node(string key, string value) {
         this.key = key;
         this.value = value;
-        this.value = value;
     }
 }
 
